@@ -1,0 +1,8 @@
+C:\Users\pc\Desktop\iti\C#\Day 4_CSharp\bin\Debug\Day 4_CSharp.exe.config
+C:\Users\pc\Desktop\iti\C#\Day 4_CSharp\bin\Debug\Day 4_CSharp.exe
+C:\Users\pc\Desktop\iti\C#\Day 4_CSharp\bin\Debug\Day 4_CSharp.pdb
+C:\Users\pc\Desktop\iti\C#\Day 4_CSharp\obj\Debug\Day 4_CSharp.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\iti\C#\Day 4_CSharp\obj\Debug\Day 4_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\iti\C#\Day 4_CSharp\obj\Debug\Day 4_CSharp.exe
+C:\Users\pc\Desktop\iti\C#\Day 4_CSharp\obj\Debug\Day 4_CSharp.pdb
+C:\Users\pc\Desktop\iti\C#\Day 4_CSharp\obj\Debug\Day 4_CSharp.exe.config
