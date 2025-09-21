@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\iti\C#\CsharpTaskDay3\bin\Debug\net9.0\CsharpTaskDay3.exe
+C:\Users\pc\Desktop\iti\C#\CsharpTaskDay3\bin\Debug\net9.0\CsharpTaskDay3.deps.json
+C:\Users\pc\Desktop\iti\C#\CsharpTaskDay3\bin\Debug\net9.0\CsharpTaskDay3.runtimeconfig.json
+C:\Users\pc\Desktop\iti\C#\CsharpTaskDay3\bin\Debug\net9.0\CsharpTaskDay3.dll
+C:\Users\pc\Desktop\iti\C#\CsharpTaskDay3\bin\Debug\net9.0\CsharpTaskDay3.pdb
+C:\Users\pc\Desktop\iti\C#\CsharpTaskDay3\obj\Debug\net9.0\CsharpTaskDay3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\iti\C#\CsharpTaskDay3\obj\Debug\net9.0\CsharpTaskDay3.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\iti\C#\CsharpTaskDay3\obj\Debug\net9.0\CsharpTaskDay3.AssemblyInfo.cs
+C:\Users\pc\Desktop\iti\C#\CsharpTaskDay3\obj\Debug\net9.0\CsharpTaskDay3.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\iti\C#\CsharpTaskDay3\obj\Debug\net9.0\CsharpTaskDay3.dll
+C:\Users\pc\Desktop\iti\C#\CsharpTaskDay3\obj\Debug\net9.0\refint\CsharpTaskDay3.dll
+C:\Users\pc\Desktop\iti\C#\CsharpTaskDay3\obj\Debug\net9.0\CsharpTaskDay3.pdb
+C:\Users\pc\Desktop\iti\C#\CsharpTaskDay3\obj\Debug\net9.0\CsharpTaskDay3.genruntimeconfig.cache
+C:\Users\pc\Desktop\iti\C#\CsharpTaskDay3\obj\Debug\net9.0\ref\CsharpTaskDay3.dll

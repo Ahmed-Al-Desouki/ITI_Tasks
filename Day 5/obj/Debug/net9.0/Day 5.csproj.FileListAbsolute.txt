@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\iti\C#\Day 5\bin\Debug\net9.0\Day 5.exe
+C:\Users\pc\Desktop\iti\C#\Day 5\bin\Debug\net9.0\Day 5.deps.json
+C:\Users\pc\Desktop\iti\C#\Day 5\bin\Debug\net9.0\Day 5.runtimeconfig.json
+C:\Users\pc\Desktop\iti\C#\Day 5\bin\Debug\net9.0\Day 5.dll
+C:\Users\pc\Desktop\iti\C#\Day 5\bin\Debug\net9.0\Day 5.pdb
+C:\Users\pc\Desktop\iti\C#\Day 5\obj\Debug\net9.0\Day 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\iti\C#\Day 5\obj\Debug\net9.0\Day 5.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\iti\C#\Day 5\obj\Debug\net9.0\Day 5.AssemblyInfo.cs
+C:\Users\pc\Desktop\iti\C#\Day 5\obj\Debug\net9.0\Day 5.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\iti\C#\Day 5\obj\Debug\net9.0\Day 5.dll
+C:\Users\pc\Desktop\iti\C#\Day 5\obj\Debug\net9.0\refint\Day 5.dll
+C:\Users\pc\Desktop\iti\C#\Day 5\obj\Debug\net9.0\Day 5.pdb
+C:\Users\pc\Desktop\iti\C#\Day 5\obj\Debug\net9.0\Day 5.genruntimeconfig.cache
+C:\Users\pc\Desktop\iti\C#\Day 5\obj\Debug\net9.0\ref\Day 5.dll
+C:\Users\pc\Desktop\iti\C#\Day 5\obj\Debug\net9.0\Day 5.sourcelink.json
