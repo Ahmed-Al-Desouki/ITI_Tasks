@@ -3,7 +3,7 @@ namespace WinFormsEfCrud.Models
 {
     public class UniversityContext : DbContext
     {
-        public DbSet<Student> Students { get; set; } = null!;
+        public DbSet<Student> Students { get; set; } 
 
         public UniversityContext()
         {
@@ -30,3 +30,4 @@ namespace WinFormsEfCrud.Models
         }
     }
 }
+
