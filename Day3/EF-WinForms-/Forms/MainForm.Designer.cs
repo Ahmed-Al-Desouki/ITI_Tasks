@@ -66,7 +66,7 @@ namespace WinForms_EF_CF
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.txtName);
             this.Controls.Add(this.txtAge);
-            this.Controls.Add(this.txtDepartment);
+            this.Controls.Add(this.txtDept);
             this.Controls.Add(this.btnAdd);
             this.Controls.Add(this.btnUpdate);
             this.Controls.Add(this.btnDelete);
@@ -78,4 +78,5 @@ namespace WinForms_EF_CF
         }
     }
 }
+
 
