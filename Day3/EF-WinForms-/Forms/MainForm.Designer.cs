@@ -71,12 +71,13 @@ namespace WinForms_EF_CF
             this.Controls.Add(this.btnUpdate);
             this.Controls.Add(this.btnDelete);
             this.Controls.Add(this.btnReset);
-            this.Text = "Student Management (Code First)";
+            this.Text = "Code First - Student Management";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
         }
     }
 }
+
 
 
