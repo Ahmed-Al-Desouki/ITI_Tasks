@@ -34,8 +34,8 @@ namespace WinForms_EF_CF
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             
-            this.dataGridView1.Location = new System.Drawing.Point(12, 12);
-            this.dataGridView1.Size = new System.Drawing.Size(400, 200);
+            this.dataGridView1.Location = new System.Drawing.Point(14, 14);
+            this.dataGridView1.Size = new System.Drawing.Size(500, 250);
             
             this.txtName.Location = new System.Drawing.Point(12, 230);
             this.txtName.PlaceholderText = "Name";
@@ -44,25 +44,25 @@ namespace WinForms_EF_CF
             this.txtAge.PlaceholderText = "Age";
             
             this.txtDepartment.Location = new System.Drawing.Point(12, 290);
-            this.txtDepartment.PlaceholderText = "Department";
+            this.txtDepartment.PlaceholderText = "Dept";
             
             this.btnAdd.Text = "Add";
-            this.btnAdd.Location = new System.Drawing.Point(12, 330);
+            this.btnAdd.Location = new System.Drawing.Point(11, 310);
             this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
             
             this.btnUpdate.Text = "Update";
-            this.btnUpdate.Location = new System.Drawing.Point(90, 330);
+            this.btnUpdate.Location = new System.Drawing.Point(85, 310);
             this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
             
             this.btnDelete.Text = "Delete";
-            this.btnDelete.Location = new System.Drawing.Point(170, 330);
+            this.btnDelete.Location = new System.Drawing.Point(180, 310);
             this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
             
             this.btnReset.Text = "Reset";
-            this.btnReset.Location = new System.Drawing.Point(250, 330);
+            this.btnReset.Location = new System.Drawing.Point(260, 310);
             this.btnReset.Click += new System.EventHandler(this.btnReset_Click);
             
-            this.ClientSize = new System.Drawing.Size(450, 400);
+            this.ClientSize = new System.Drawing.Size(500, 400);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.txtName);
             this.Controls.Add(this.txtAge);
@@ -78,3 +78,4 @@ namespace WinForms_EF_CF
         }
     }
 }
+
