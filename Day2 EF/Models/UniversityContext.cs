@@ -9,7 +9,6 @@ namespace WinFormsEfCrud.Models
         {
         }
 
-        // edit this connection string to match your environment or use appsettings + DI
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
@@ -30,4 +29,5 @@ namespace WinFormsEfCrud.Models
         }
     }
 }
+
 
