@@ -34,7 +34,7 @@ namespace WinForms_EF_CF
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             
-            this.dataGridView1.Location = new System.Drawing.Point(14, 14);
+            this.dataGridView1.Location = new System.Drawing.Point(11, 11);
             this.dataGridView1.Size = new System.Drawing.Size(500, 250);
             
             this.txtName.Location = new System.Drawing.Point(12, 230);
@@ -78,6 +78,7 @@ namespace WinForms_EF_CF
         }
     }
 }
+
 
 
 
